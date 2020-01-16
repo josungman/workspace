@@ -1,7 +1,19 @@
-<<<<<<< HEAD
-깃 테스트
+github 기본 설명서
+(Push(자료 올리기) 전에는 Pull(자료 받기)가 있다.) 
+하나의 깃으로 같이 수정할 경우 덮어쓰기 위험 예방
 
-추가 내용 입니다.
-=======
-github command
->>>>>>> 88473c2307b14cc17c0926aaacaf3c93f7414d43
+github command (기본 7가지 명령어)
+
+1. 루트폴더 연결(처음 한번만 연결해주면 됨)
+    git init
+    git remote add origin "자기자신의 해당 깃 주소"
+
+2. 파일 올리기, 내려받기
+    git status (로컬폴더와 깃과의 싱크 상태 확인)
+    git add. (로컬폴더안에 수정된 모든 파일을 트랙킹)
+    git commit -m "메세지" (수정된 파일 업로드전 코맨트 남기기)
+    
+    git pull origin master (업로드전 파일 먼저 내려 받기)
+    git push origin master (수정된 파일 업로드)
+
+

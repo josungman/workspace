@@ -7,8 +7,8 @@
 >         >1.4. JSP(초급 공부중) 
 
 # 2. 사용하는 IDE툴
-2.1. eclipse <br>
-2.2. vscode
+>         2.1. eclipse <br>
+>         2.2. vscode
 
 # 3. 사용하는 버전 관리 프로그램
 3.1. Git (공부중)

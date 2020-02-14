@@ -1,7 +1,7 @@
 <h1> 저는 이런 개발자 입니다.  </H1> <br>
 
 # 1. 사용가능한 언어
-> 1.1. Java (초~중급) <br>
+>            >1.1. Java (초~중급) <br>
 1.2. Visual Basic for Applications (중~고급) <br>
 1.3. HTML (중급) <br>
 1.4. JSP(초급 공부중) 

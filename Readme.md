@@ -26,7 +26,6 @@
          5.1. backend 개발자가 되기 위해 JSP 및 Servlet을 공부 중에 있습니다. <br>
          <a href="https://mr-cho.tistory.com/">공부내용 티스토리 게시판</a> <br>
 
-
 # 6. 개인 프로젝트
 
 6.1 웹 사이트 개발 프로젝트 <br>

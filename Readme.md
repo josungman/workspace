@@ -1,16 +1,16 @@
 <h1> 저는 이런 개발자 입니다.  </H1> <br>
 
 # 1. 사용가능한 언어
->            >1.1. Java (초~중급) <br>
-1.2. Visual Basic for Applications (중~고급) <br>
-1.3. HTML (중급) <br>
-1.4. JSP(초급 공부중) 
+>         >1.1. Java (초~중급) <br>
+>         >1.2. Visual Basic for Applications (중~고급) <br>
+>         >1.3. HTML (중급) <br>
+>         >1.4. JSP(초급 공부중) 
 
 # 2. 사용하는 IDE툴
 2.1. eclipse <br>
 2.2. vscode
 
-# 3. 버전 관리 프로그램
+# 3. 사용하는 버전 관리 프로그램
 3.1. Git (공부중)
 
 # 3. 교육과정

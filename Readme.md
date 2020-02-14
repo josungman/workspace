@@ -9,21 +9,7 @@
 1.4. JSP(초급 공부중)
 
 
-## 2.2. 주로 사용하는 
-이메일에서 사용하는 ```>``` 블럭인용문자를 이용한다.
-```
-> This is a first blockqute.
->	> This is a second blockqute.
->	>	> This is a third blockqute.
-```
-> This is a first blockqute.
->	> This is a second blockqute.
->	>	> This is a third blockqute.
 
-
-* 빨강
-  * 녹색
-    * 파랑
 
 
 * 외부링크: <http://example.com/>

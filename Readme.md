@@ -3,10 +3,10 @@
 ======================
 
 # 1. 사용가능한 언어
-## 1.1. Java (초~중급)
-## 1.2. Visual Basic for Applications (중~고급)
-## 1.3. HTML (중급)
-## 1.4. JSP(초급 ~ 공부중)
+1.1. Java (초~중급)
+1.2. Visual Basic for Applications (중~고급)
+1.3. HTML (중급)
+1.4. JSP(초급 공부중)
 
 
 ## 2.2. 주로 사용하는 

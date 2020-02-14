@@ -40,5 +40,5 @@
 
 6.4 그 외 프로젝트 <br>
          <a href="https://www.youtube.com/watch?v=78nQ30oVEds&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=2">Excel VBA 프로젝트</a>
-
+* 파랑
 

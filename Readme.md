@@ -9,20 +9,23 @@
 1.4. JSP(초급 공부중) 
 
 # 2. 사용하는 IDE툴
-2.1. eclipse
+2.1. eclipse <br>
 2.2. vscode
 
 # 3. 교육과정
 3.1. Java 웹 양성 국비 과정 수료중
 
 # 4. 수상(자격)및 특이 이력
-2008 정보기술 전국대회 은상
-2013 정처기 취득
-2018 정보기술 서울지방 심사위원 위촉
+2008 정보기술 전국대회 은상 <br>
+2013 정처기 취득 <br>
+2018 정보기술 서울지방 심사위원 위촉 <br>
 
 
-# 3. 앞으로 계획
-3.1. backend 개발자가 되기 위해 JSP 및 
+# 5. 앞으로 계획
+3.1. backend 개발자가 되기 위해 JSP 및 Servlet을 공부 중에 있습니다.
+
+
+# 6. 개인 프로젝트
 
 
 
@@ -30,5 +33,5 @@
 * 이메일링크: <address@example.com>
 
 
-<img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
 <img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>

@@ -1,4 +1,4 @@
-<h1> 저는 이런 개발자 입니다.  </H1>
+<h1> 저는 이런 개발자 입니다.  </H1> <br>
 
 
 
@@ -13,7 +13,7 @@
 2.2. vscode
 
 # 3. 교육과정
-3.1. Java 웹 양성 국비 과정 수료중
+3.1. Java 웹 양성 국비 과정 공부중
 
 # 4. 수상(자격)및 특이 이력
 2008 정보기술 전국대회 은상 <br>
@@ -22,15 +22,22 @@
 
 
 # 5. 앞으로 계획
-3.1. backend 개발자가 되기 위해 JSP 및 Servlet을 공부 중에 있습니다.
+5.1. backend 개발자가 되기 위해 JSP 및 Servlet을 공부 중에 있습니다.
 
 
 # 6. 개인 프로젝트
 
+6.1 웹 사이트 개발 프로젝트
+<a href="https://www.youtube.com/watch?v=6TdxM1eMUjM&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf">웹게시판 개발 첫번째 프로젝트</a>
+<a href="https://www.youtube.com/watch?v=Ivg1m_ZBfoE&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=5">웹게시판 개발 두번째 프로젝트</a>
+
+6.2 웹 페이지 Copy 프로젝트
+<a href="https://www.youtube.com/watch?v=9TQnKm0fbQ4&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=3">Blizzard Copy Project</a>
 
 
-* 외부링크: <http://example.com/>
-* 이메일링크: <address@example.com>
+
+6.2 웹 사이트 개발 카피 (HTML)
+
 
 
 

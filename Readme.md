@@ -29,16 +29,16 @@
 # 6. 개인 프로젝트
 
 6.1 웹 사이트 개발 프로젝트 <br>
-*         <a href="https://www.youtube.com/watch?v=6TdxM1eMUjM&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf">웹게시판 개발 첫번째 프로젝트</a> <br>
+         <a href="https://www.youtube.com/watch?v=6TdxM1eMUjM&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf">웹게시판 개발 첫번째 프로젝트</a> <br>
  *        <a href="https://www.youtube.com/watch?v=Ivg1m_ZBfoE&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=5">웹게시판 개발 두번째 프로젝트</a> <br>
 
 6.2 웹 페이지 Copy 프로젝트 <br>
-  *       <a href="https://www.youtube.com/watch?v=9TQnKm0fbQ4&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=3">Blizzard 카피 프로젝트</a>
+       <a href="https://www.youtube.com/watch?v=9TQnKm0fbQ4&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=3">Blizzard 카피 프로젝트</a>
 
 6.3 Java 게임 프로젝트 <br>
-   *      <a href="https://www.youtube.com/watch?v=w5Gjw1J514w&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=4">Java 콘솔게임 프로젝트</a>
+      <a href="https://www.youtube.com/watch?v=w5Gjw1J514w&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=4">Java 콘솔게임 프로젝트</a>
 
 6.4 그 외 프로젝트 <br>
-    *     <a href="https://www.youtube.com/watch?v=78nQ30oVEds&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=2">Excel VBA 프로젝트</a>
+     <a href="https://www.youtube.com/watch?v=78nQ30oVEds&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=2">Excel VBA 프로젝트</a>
 
 

@@ -24,14 +24,12 @@
 
 # 5. 앞으로 계획
          
-5.1 backend 개발자가 되기 위해 JSP 및 Servlet을 공부 중에 있습니다. <br>
+5.1 backend 개발자가 되기 위해 열심히 공부 중에 있습니다. <br>
          <a href="https://mr-cho.tistory.com">공부내용 티스토리 블로그</a> <br>
 # 6. 개인 프로젝트
 
 6.1 웹 사이트 개발 프로젝트 <br>
-         <a href="https://www.youtube.com/watch?v=6TdxM1eMUjM&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf">웹게시판 개발 첫번째 프로젝트</a> <br>
-        <a href="https://www.youtube.com/watch?v=Ivg1m_ZBfoE&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=5">웹게시판 개발 두번째 프로젝트</a> <br>
-
+        <a href="https://www.youtube.com/watch?v=C8yODw7hwJ4">웹게시판 개발 두번째 프로젝트</a> <br>
 6.2 웹 페이지 Copy 프로젝트 <br>
        <a href="https://www.youtube.com/watch?v=9TQnKm0fbQ4&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=3">Blizzard 카피 프로젝트</a>
 

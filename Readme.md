@@ -29,7 +29,7 @@
 # 6. 개인 프로젝트
 
 6.1 웹 사이트 개발 프로젝트 <br>
-        <a href="https://www.youtube.com/watch?v=C8yODw7hwJ4">웹게시판 개발 두번째 프로젝트</a> <br>
+        <a href="https://www.youtube.com/watch?v=C8yODw7hwJ4">웹게시판 개인 프로젝트</a> <br>
 6.2 웹 페이지 Copy 프로젝트 <br>
        <a href="https://www.youtube.com/watch?v=9TQnKm0fbQ4&list=PL7lbzlpGZWO9cBDQF3Y7u34t9DEQmbQSf&index=3">Blizzard 카피 프로젝트</a>
 
